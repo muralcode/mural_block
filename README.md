@@ -12,7 +12,7 @@ This is still a proof of concept and cannot be used at this stage but can be a g
 
 ## Features
 
-C plus plus Library: [Custome ML Library AdaptiveKmeans](https://github.com/muralcode/AdaptiveKmeans)
+C plus plus Library: [Custom Machine Learning Library AdaptiveKmeans](https://github.com/muralcode/AdaptiveKmeans)
 
 ### License
 
