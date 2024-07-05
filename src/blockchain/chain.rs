@@ -1,3 +1,4 @@
+//Copyright (c) 2024 Arithoptix Pty Ltd.
 use super::block::Block;
 use sha2::{Sha256, Digest};
 use log::info;
