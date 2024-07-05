@@ -9,3 +9,19 @@ I created a distributed storage network incorporating my enhanced AdaptiveKmeans
 ## Usage
 
 This is still a proof of concept and cannot be used at this stage but can be a guide how to achieve this ambitious idea.
+
+## Features
+
+C plus plus Library: [Custome ML Library AdaptiveKmeans](https://github.com/muralcode/AdaptiveKmeans)
+
+### License
+
+AdaptiveKMeans is licensed under [Copyright (c) 2024 Arithoptix Pty Ltd]. Refer to the LICENSE file for more details.
+
+### Authors
+
+Lerato Mabotho Mokoena
+
+### Contact
+
+For questions, support, or further inquiries about AdaptiveKMeans, contact [mabothom@icloud.com]
