@@ -1,3 +1,4 @@
+//Copyright (c) 2024 Arithoptix Pty Ltd.
 use tokio::net::TcpListener;
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
 use log::info;

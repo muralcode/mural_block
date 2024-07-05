@@ -1,3 +1,4 @@
+//Copyright (c) 2024 Arithoptix Pty Ltd.
 use tokio::sync::mpsc;
 use serde::{Serialize, Deserialize};
 use log::info;

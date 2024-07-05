@@ -1,3 +1,4 @@
+//Copyright (c) 2024 Arithoptix Pty Ltd.
 use std::collections::HashMap;
 use log::{info, error};
 use std::sync::{Arc, RwLock};

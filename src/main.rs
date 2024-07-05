@@ -1,3 +1,4 @@
+//Copyright (c) 2024 Arithoptix Pty Ltd.
 mod network;
 mod blockchain;
 mod storage;
