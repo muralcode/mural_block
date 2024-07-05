@@ -1,0 +1,13 @@
+#build Directories
+/target
+/build/
+/out/
+/.vscode/
+# Compiled binaries
+*.o
+*.obj
+*.a
+*.exe
+*.out
+*.so
+*.dll
